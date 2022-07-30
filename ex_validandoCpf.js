@@ -1,3 +1,4 @@
+/* Separa os digitos do CPF em um array*/
 const cpf = [5,2,9,9,8,2,2,4,7,2,5]
 //[1,1,1,1,1,1,1,1,1,1,1]
 
