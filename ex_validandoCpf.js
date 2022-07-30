@@ -26,7 +26,7 @@ else{
         soma += (cpf[i] * mult1[i])
     }
     resto = (soma * 10) % 11 /*Calculo de validação da receita*/
-    //se o resto é 10 significa que o numero é maior que 9, logo, o digito é  convertido para 0
+    //se o resto é 10 significa que o digito é maior que 9, logo, o digito é  convertido para 0
     if(resto === 10){
         resto = 0
     }
