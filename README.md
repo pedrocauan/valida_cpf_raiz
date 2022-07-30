@@ -2,4 +2,4 @@
 algoritmo  "RAÍZ" para validar CPF
 
 
-## ESTÁ INCOMPLETO !!
+## NÃO ESTÁ OTIMIZADO !!
